@@ -1,2 +1,2 @@
 # shell-playground
-Fiz esse repo pra salvar algumas brincadeirinhas que ando fazendo em shell script
+Fiz esse repo pra salvar algumas brincadeirinhas que andamos fazendo em shell script la na firma, os de cep e o de millisseconds foram feitos pelo [erick](https://github.com/erickvieira), vão lá ver nas gists dele, aq eu to salvando só pra não perder mesmo
